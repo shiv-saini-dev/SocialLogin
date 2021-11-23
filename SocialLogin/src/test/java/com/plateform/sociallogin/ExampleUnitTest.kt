@@ -1,4 +1,4 @@
-package com.plateform
+package com.plateform.sociallogin
 
 import org.junit.Test
 

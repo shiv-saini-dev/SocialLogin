@@ -2,13 +2,12 @@ package com.plateform.socialManagers
 
 import android.content.Context
 import android.content.Intent
-import android.widget.Toast
 import androidx.appcompat.app.AppCompatActivity
 import com.google.android.gms.auth.api.signin.GoogleSignInAccount
 import com.plateform.NetworkUtils
-import com.plateform.model.SocialLoginRequest
 import com.plateform.constant.Constants
 import com.plateform.listener.SocialManagerListener
+import com.plateform.model.SocialLoginRequest
 
 class SocialLoginManager {
 
