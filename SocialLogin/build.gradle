@@ -42,4 +42,5 @@ dependencies {
     implementation 'com.facebook.android:facebook-login:latest.release'
     implementation 'com.google.android.gms:play-services-auth:19.2.0'
 }
+apply plugin: 'maven-publish'
 group = 'com.github.AmericanaDigiteam'
