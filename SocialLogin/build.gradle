@@ -6,10 +6,10 @@ plugins {
 group = 'com.github.shiv-saini-dev'
 
 android {
-    compileSdk 30
+    compileSdk 31
     defaultConfig {
         minSdk 26
-        targetSdk 30
+        targetSdk 31
         versionCode 1
         versionName "1.0"
         consumerProguardFiles "consumer-rules.pro"
