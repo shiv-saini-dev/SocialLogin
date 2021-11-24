@@ -3,7 +3,7 @@ plugins {
     id 'kotlin-android'
     id 'maven-publish'
 }
-group = 'com.github.AmericanaDigiteam'
+group = 'com.github.shiv-saini-dev'
 
 android {
     compileSdk 30
