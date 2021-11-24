@@ -3,12 +3,10 @@ plugins {
     id 'kotlin-android'
     id 'maven-publish'
 }
-
-
+group = 'com.github.AmericanaDigiteam'
 
 android {
     compileSdk 31
-
     defaultConfig {
         minSdk 26
         targetSdk 31
@@ -43,4 +41,4 @@ dependencies {
     implementation 'com.facebook.android:facebook-login:latest.release'
     implementation 'com.google.android.gms:play-services-auth:19.2.0'
 }
-group = 'com.github.AmericanaDigiteam'
+//apply plugin: 'com.github.dcendents.android-maven'
